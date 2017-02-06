@@ -11,3 +11,5 @@ my personal blog
 
 ## 浅谈java后端
 
+## Spring-ldapt-demo (https://github.com/185595475/blog/spring-ldap-demo)
+
